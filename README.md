@@ -5,6 +5,7 @@
  - Lived in Madrid, Spain 🛫
  - High-school student 🏫
  - Currently learning **C** 📚
+ - Loves technology 💻
 
 **Languages**
  - English 🏴

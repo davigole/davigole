@@ -6,6 +6,7 @@
  - High school student 🏫
  - Currently learning **C** 📚
  - Loves technology 💻
+ - Looking to collaborate with other developers 🤝🏻
 
 **Languages**
  - English 🏴
@@ -18,3 +19,4 @@
  - PHP 🔵
  - HTML 🏗
  - CSS ✨
+ - SQL 📅

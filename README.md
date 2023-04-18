@@ -1,7 +1,7 @@
 ### Hi, my name is Davi 👋
  - 🌎 Living in Rio de Janeiro, Brazil
  - 🏫 High school student
- - 🧠 Interested in Algorithms and Data Structures 
+ - 🧠 Interested in Algorithms, Data Structures and Competitive Programming 
 
 **Experience**
  - C++

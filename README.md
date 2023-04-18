@@ -4,9 +4,10 @@
  - 🧠 Interested in Algorithms and Data Structures 
 
 **Experience**
- - Python
  - C++
+ - Python
  - JavaScript
+ - Java
  - HTML
  - CSS
  - SQL

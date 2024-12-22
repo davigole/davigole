@@ -1,16 +1,9 @@
-### Hi, my name is Davi 👋
- - 🏫 High school student
-- 🌎 Living in Rio de Janeiro, Brazil
+## Hi there, I'm Davi! 👋
+ - 🌱 Always looking to learn more about Computer Science and Mathematics
  - 🧠 Interested in Algorithms, Data Structures, Mathematics and Competitive Programming
  - 🌐 Portuguese, English and Spanish
 
-**Experience**
- - C++
- - Python
- - JavaScript
- - Java
- - HTML
- - CSS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/davi-golebiovski/)
 
 <!--
 **davigole/davigole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

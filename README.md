@@ -1,6 +1,6 @@
 ## Hi there, I'm Davi! 👋
  - 🌱 Always looking to learn more about Computer Science and Mathematics
- - 🧠 Interested in Algorithms, Data Structures, Mathematics and Competitive Programming
+ - 📚 Currently studying Computer Science at University of São Paulo (IME-USP)
  - 🌐 Portuguese, English and Spanish
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/davi-golebiovski/)
